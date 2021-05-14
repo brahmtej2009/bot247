@@ -1,0 +1,9 @@
+{
+	"ip":"play_city_life.aternos.me",
+	"port": 25710,
+	"name": "the_operator",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register (bot123bot123) (bot123bot123)",
+	"login-cmd":"/login (bot123bot123)"
+}
